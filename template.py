@@ -17,7 +17,7 @@ list_of_files = [
     "README.md",
     "setup.py",
     "app.py",
-    "research/trials.pipynb"
+    "research/trials.ipynb"
 ]
 
 # LOGIC
