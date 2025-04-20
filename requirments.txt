@@ -10,4 +10,3 @@ langchain_openai
 langchain_experimental
 
 -e . 
-# -e . is used to install the current directory as a package, which is useful for local development.
